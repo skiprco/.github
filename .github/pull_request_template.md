@@ -53,6 +53,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 **New Library (Packages, Dependencies) controls**
 
+- [ ] No new library was introduced
 - [ ] New library has been approved by the Security Officer (AS PR REVIEWER, with explicit comment)[^so_approval]
 - [ ] New library has been added to the [list of used libraries](https://docs.google.com/spreadsheets/d/1UsJ3KG_2qWKiJWbShxy9l53uuJLIDj9-wpjtwk2bxXU/edit#gid=993688960)
 - [ ] New library is available under acceptable license[^licenses]
