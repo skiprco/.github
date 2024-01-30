@@ -1,8 +1,5 @@
 # PR Overview
 
-## Ticket Reference
-[Linear Ticket URL]()
-
 ## Context
 _Briefly describe the purpose of this PR._
 
